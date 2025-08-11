@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a4 as l}from"./chunks/framework.DeD0PINy.js";const d=JSON.parse('{"title":"HTML 简介","description":"","frontmatter":{},"headers":[],"relativePath":"html/home.md","filePath":"html/home.md"}'),o={name:"html/home.md"},r=l("",12),i=[r];function h(n,T,s,L,H,M){return t(),a("div",null,i)}const m=e(o,[["render",h]]);export{d as __pageData,m as default};

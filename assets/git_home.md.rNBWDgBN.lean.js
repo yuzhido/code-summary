@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a4 as r}from"./chunks/framework.DeD0PINy.js";const p=JSON.parse('{"title":"什么是 Git","description":"","frontmatter":{},"headers":[],"relativePath":"git/home.md","filePath":"git/home.md"}'),i={name:"git/home.md"},o=r("",4),s=[o];function n(_,c,l,h,d,m){return a(),e("div",null,s)}const g=t(i,[["render",n]]);export{p as __pageData,g as default};

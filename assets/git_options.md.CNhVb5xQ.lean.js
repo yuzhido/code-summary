@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as t}from"./chunks/framework.DeD0PINy.js";const F=JSON.parse('{"title":"Git 配置","description":"","frontmatter":{},"headers":[],"relativePath":"git/options.md","filePath":"git/options.md"}'),e={name:"git/options.md"},n=t("",5),l=[n];function h(p,r,o,d,k,c){return a(),i("div",null,l)}const u=s(e,[["render",h]]);export{F as __pageData,u as default};
